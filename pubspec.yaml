@@ -1,0 +1,42 @@
+name: agrocomapp
+description: An application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  delayed_display: ^1.0.3
+  fluttertoast: ^4.0.1
+  firebase_core: ^0.4.4+3
+  firebase_auth: ^0.16.0
+  cloud_firestore: ^0.13.5
+  modal_progress_hud: ^0.1.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  font_awesome_flutter: ^8.8.1
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+      - assets/agri.tech.jpg
+      - assets/farmer.png
+
+
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico/Pacifico-Regular.ttf
+          weight: 700

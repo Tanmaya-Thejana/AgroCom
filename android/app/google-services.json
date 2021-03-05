@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "230019945289",
+    "firebase_url": "https://agrocom-3ccdb.firebaseio.com",
+    "project_id": "agrocom-3ccdb",
+    "storage_bucket": "agrocom-3ccdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230019945289:android:192ddc4195a52923a54098",
+        "android_client_info": {
+          "package_name": "thejana.agrocomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230019945289-vqk3bakfhh6isj412q4tg725n73lg5t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUNiLzzjOrKytRXX7GL9f7va1udvMFcHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230019945289-vqk3bakfhh6isj412q4tg725n73lg5t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
